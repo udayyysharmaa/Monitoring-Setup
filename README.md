@@ -1,8 +1,8 @@
-For Blackbox Exporter using port number 9115
+For Blackbox Exporter running port number 9115
 ```
 ./blackbox_exporter --config.file=blackbox.yml &> output.log &
 netstat -tunlp
 ```
-For Grafana runing port number 3000
+For Grafana running port number 3000
 
-For Promethus runing port number 9090
+For prometheus running port number 9090
